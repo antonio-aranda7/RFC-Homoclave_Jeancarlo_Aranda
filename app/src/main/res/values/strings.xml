@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RFC-Homoclave_Jeancarlo Aranda</string>
+    <string name="nombre_s">Nombre(s): *</string>
+    <string name="generar">Generar</string>
+    <string name="apellido_paterno">Apellido paterno: *</string>
+    <string name="name">Name</string>
+    <string name="rfc">RFC</string>
+    <string name="apellido_materno">Apellido materno: *</string>
+    <string name="fecha_de_nacimiento">Fecha de Nacimiento: *</string>
+    <string name="limpiar">Limpiar</string>
+</resources>
